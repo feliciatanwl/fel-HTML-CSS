@@ -1,0 +1,24 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family:'Inconsolata', cursive;
+  text-align: center;
+}
+
+/*header*/
+
+header {
+  position: absolute;
+  margin-top:auto;
+
+}
+
+nav ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}

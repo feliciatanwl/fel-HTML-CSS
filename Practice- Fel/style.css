@@ -1,9 +1,19 @@
-body{
-  background:black;
-  color:#f4f4f4;
-
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p {
+  color: red;
+  /*This is a single-line comment */
+  text-align: center;
 }
 
-h1{
-  background: rgb(181,137,0);
-}
+/* This is
+a multi-line
+comment */
+
+<p>Hello World!</p>
+<p>These paragraphs are styled with CSS.</p>
+
+</body>
+</html>
